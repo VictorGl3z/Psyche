@@ -6,7 +6,7 @@
 # dis(100,75) -> 25
 
 def dis(price, discount):
-    total = price - price * discount / 100
+    total = price * (1 - discount / 100)
     return round(total,2)
     
 while True:
