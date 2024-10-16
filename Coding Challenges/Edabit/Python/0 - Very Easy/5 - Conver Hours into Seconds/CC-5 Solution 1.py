@@ -1,5 +1,5 @@
 # Problem Statement
-# Write a function that conerts hours into seconds
+# Write a function that converts hours into seconds
 # Examples
 # how_many_seconds(2) -> 7200
 # how_many_seconds(10) -> 36000
